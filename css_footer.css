@@ -1,0 +1,19 @@
+footer {
+    display: flex;
+    height: fit-content;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.footer_container {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    background-color: white;
+    border-top: 1px solid #ddd;
+    color: #555;
+    gap: 150px;
+    justify-content: center;
+    line-height: 0.5;
+    padding: 20px 0px;
+}
